@@ -19,5 +19,7 @@
 ## Examples of Traffic Interception Using Charles Proxy
 
 [Replacing Response Content Using Map Remote](https://github.com/AnnaZudilova/mobile/blob/main/picture%202.mp4)
+
 [Modifying Product ID When Removing an Item from the Cart Using Breakpoints](https://github.com/AnnaZudilova/mobile/blob/main/delete%202.mp4)
+
 [Example of an Intercepted HTTPS Request Containing User-Agent Information from a Mobile Device](https://github.com/AnnaZudilova/mobile/blob/main/user%20agent.png)
